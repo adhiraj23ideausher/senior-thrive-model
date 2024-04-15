@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return jsonify({'msg': 'You can go to /docs to use this API :)'})
+    return jsonify({'msg': 'Welcome to SeniorThrive model API!'})
 
 @app.route('/scan', methods=['POST'])
 def scan_image():

@@ -75,7 +75,7 @@ def caption_image(image_path):
 
 # from IPython.display import Image
 
-print(os.getenv('NAME'))
+# print(os.getenv('NAME'))
 
 # image_path = r"https://seniorthrive.s3.us-east-1.amazonaws.com/public/scanImages/f6bcf060-cad6-4ac3-be14-2a4cbb595f18-bedroom.jpg"
 # text = caption_image(image_path)
