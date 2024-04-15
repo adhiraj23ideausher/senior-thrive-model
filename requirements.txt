@@ -1,0 +1,6 @@
+flask
+openai==1.0
+scikit-learn
+numpy
+requests
+python-dotenv
